@@ -62,7 +62,7 @@ I also hold a B.Sc. in Safety & Inspection Engineering, where I developed expert
 
 ## 🏆 Highlights
 
-- 🥇 Ranked 1st among 30 students in M.Sc. Materials & Metallurgy at AUT
+- 🥇 Ranked 1st among 15 students in the M.Sc. Welding Engineering cohort
 - 📊 Top 3% in national M.Sc. entrance exam
 - 🌍 Presented at Gubkin University (Russia) — Oil & Gas Horizons Workshop
 - 🤝 Member, World Petroleum Council Young Professionals (2018–2020)
