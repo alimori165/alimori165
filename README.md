@@ -1,5 +1,5 @@
 # Profile
-<h1 align="center">Hi, I'm Ali Mori 👋</h1>
+<h1 align="center">Hi, I'm Ali Mouri 👋</h1>
 
 <p align="center">
   <b>Materials & Welding Engineer | WAAM & Additive Manufacturing | FEM Simulation</b><br>
